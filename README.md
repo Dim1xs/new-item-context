@@ -10,6 +10,8 @@ Open `item_format.reg` and change these arguments to your:
 - '::TEMPLATE-FILE::' = Name of template file from `.Templates` directory (ex: `Script.lua`)
 - '::ITEM-NAME::' = Name of item in context menu (ex: `Lua Script`)
 
+Put template file into `.\Templates\` and run `start.bat` file.
+
 # Examples:
 
 ## Adding Lua Script item:
